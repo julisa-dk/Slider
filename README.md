@@ -19,3 +19,4 @@
 18. Get element 'container' from html
 19. Create const 'height' and get property clientHeight
 20. Input this const in the transform property and count which value needed 
+21. Add functional a scroll by keyboard
